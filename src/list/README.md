@@ -18,6 +18,8 @@ Crie uma classe chamada "CarrinhoDeCompras" que representa um carrinho de compra
 - `calcularValorTotal()`: Calcula e retorna o valor total do carrinho, levando em consideração o preço e a quantidade de cada item.
 - `exibirItens()`: Exibe todos os itens presentes no carrinho, mostrando seus nomes, preços e quantidades.
 
+<hr>
+
 ### Pesquisa em List
 
 ##### 1. Catálogo de Livros
